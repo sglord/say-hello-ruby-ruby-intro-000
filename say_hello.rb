@@ -2,6 +2,7 @@
 
 def say_hello(name)
   puts "Hello, #{name}!"
+  
+  name=ken
 end
 
-name=ken
